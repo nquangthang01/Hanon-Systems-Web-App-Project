@@ -1,0 +1,4 @@
+- Database schema: https://lucid.app/lucidchart/5a174aaf-0b5b-4878-92e8-f4030b7aa274/edit?viewport_loc=-3514%2C-1634%2C5444%2C2669%2C0_0&invitationId=inv_b7e93a63-5ffc-471b-90af-783e55bf92a7
+- Django documentation: https://docs.djangoproject.com/en/5.0/
+- Django course: https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript
+- Django class based views: https://ccbv.co.uk/

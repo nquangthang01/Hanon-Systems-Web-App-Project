@@ -1,0 +1,8 @@
+- VS Code
+- SQL Server Management Studio
+- SQL Server Developer Edition
+- Python
+- Django
+- Git (repository: https://github.com/qthang01/HanonSystemsDatabase.git)
+- mssql driver for Django, used to connect Django to SQL Server (https://pypi.org/project/mssql-django/)
+- other small files just use "pip install __" if prompted
